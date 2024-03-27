@@ -1,6 +1,6 @@
 # Namcord
 
-[LIVE](namcord-production.up.railway.app)
+[LIVE](https://namcord-production.up.railway.app)
 
 ## Overview
 Namcord is a fullstack clone of Discord that enables real-time voice, video, and text communication among friends and communities, ideal for gamers and various interest groups.
